@@ -1,1 +1,1 @@
-# Udacity_DLNDF_Image_Classification
+# Udacity DLNDF Image Classification
